@@ -1,0 +1,16 @@
+dati: datiNormBVQ_libsvm_20000
+file risultati: results
+replicabile: secure_index
+excel: true
+numero vettori codice per classe: [3,7]
+delta: 0.2
+learning rate: 0.01
+percentuale train: 80
+matrice dei costi: [0 1;1 0]
+seed: 15
+epoche BVQ: 5
+flag iterazioni per bvq: true
+numero bag (iterazioni BVQ): 10
+dimensione bag: 100
+flag utilizzo la som: true
+epoche SOM: 5
